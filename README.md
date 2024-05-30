@@ -12,4 +12,5 @@ A Web Application to get information about movies.
 
 This app is built with React. Data is fetched from the The Movie Database API (TMDB api).
 
+**Deployed site**: https://subhash-ten.vercel.app/
 
